@@ -120,12 +120,11 @@ cafe-insights-dashboard/
 ## 👨‍💻 𝐀𝐮𝐭𝐡𝐨𝐫
 
 ### **Aakash Vishwakarma**
-Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+**Data Analyst** passionate about transforming raw data into meaningful insights.
 
 ### 🔗 Connect With Me
 
-- GitHub: *(Add your GitHub profile link)*
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: *(https://www.linkedin.com/in/aakashhuhh)*
 
 ---
 
